@@ -6,5 +6,5 @@ NIM   : 312010104
 
 Kelas : TI.20.B1
 
-##
+## Diatas adalah codingan sistem antrian.
 
